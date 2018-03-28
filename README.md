@@ -24,7 +24,7 @@ and the commits being published to end users. The tests are explicitly not inten
 Auto Gentoo). However Auto Gentoo believes that with a reasonable suite, many defects can be resolved prior to being observed by
 end users.
 
-NOTE(antarus): I believe mgorny has a ::gentoo repo that only receives updates after pkgcheck has run; I need to get some details from him on this.
+This is currently implemented in https://github.com/gentoo-mirror/gentoo.
 
 One potential concern of this approach is that now we end up with two repositories:
 
